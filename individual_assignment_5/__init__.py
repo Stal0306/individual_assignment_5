@@ -1,0 +1,1 @@
+from .function import clean_text_simple
